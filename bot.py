@@ -13,5 +13,4 @@ while True:
     message = input("Message to send: ")
     printer_client.send_request(message)
 
-#delete
 
