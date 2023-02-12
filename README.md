@@ -1,1 +1,2 @@
-![Alt text](https://github.com/oscarcaranqui/fpdf/tree/main/image/architecture_printer.png?raw=true)
+Architecture Printer
+![Alt text](https://raw.githubusercontent.com/oscarcaranqui/fpdf/main/image/architecture_printer.png)
